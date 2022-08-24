@@ -33,7 +33,7 @@ jobs:
       - name: 'Test and build'
         working-directory: collatz-conjecture
         run: |
-          npm ci
+          npm install
           npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v1

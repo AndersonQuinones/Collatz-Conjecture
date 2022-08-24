@@ -24,8 +24,6 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-          cache: 'npm'
-          cache-dependency-path: src/package-lock.json
       - name: 'Test and build'
         working-directory: collatz-conjecture
         run: |

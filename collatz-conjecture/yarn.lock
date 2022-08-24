@@ -4689,6 +4689,11 @@
     "utils-merge" "1.0.1"
     "vary" "~1.1.2"
 
+"Faker@^0.7.2":
+  "integrity" "sha512-CNWg/i2kZrO/y8fqjRVbJeejInydPYb/qTNHU5S086eEWRRBwAxYvVvvM4G7Z8fQ4HQgZiL6z+sruCfsRg0RfQ=="
+  "resolved" "https://registry.npmjs.org/Faker/-/Faker-0.7.2.tgz"
+  "version" "0.7.2"
+
 "fast-deep-equal@^3.1.1":
   "integrity" "sha512-8UEa58QDLauDNfpbrX55Q9jrGHThw2ZMdOky5Gl1CDtVeJDPVrG4Jxx1N8jw2gkWaff5UUuX1KJd+9zGe2B+ZA=="
   "resolved" "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.1.tgz"

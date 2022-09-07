@@ -18,7 +18,7 @@ jobs:
           cache-dependency-path: package-lock.json
       - name: 'Test and build'
         run: |
-          npm ci
+          npm install
           npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:

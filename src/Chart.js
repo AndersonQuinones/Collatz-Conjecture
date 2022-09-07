@@ -30,7 +30,7 @@ export default function Chart({ collection }) {
       },
       title: {
         display: true,
-        text: 'Chart.js Line Chart',
+        text: 'Collatz Conjecture',
       },
     },
   };
